@@ -14,7 +14,15 @@ I enjoy building software from scratch, exploring low-level system details, and 
 ## 🚀 School Projects  
 Here I’ll showcase some of the most interesting academic projects I’ve worked on:  
 
-- *(to be populated soon)*  
+## 🚀 School Projects  
+
+## 🚀 School Projects  
+
+| Course Name | Project | Description | Grade | Link |
+|-------------|---------|-------------|-------|------|
+| Compilers | JmmCompiler | Comprehensive compiler pipeline implementation, covering parsing, semantic analysis, intermediate representation (IR) generation, and final code generation targeting Jasmin assembly language. | 20/20 | [Repository](https://github.com/JFSLopes/JmmCompiler) |
+| Graphical Computation | HeliSim | Developed a 3D scene using a custom framework to control a helicopter, with shaders, objects, and animations. | 18.4/20 | [Repository](https://github.com/JFSLopes/HeliSim) |
+| Laboratório de Bases de Dados e Aplicações Web | Online Auction Platform | Built a web application using Laravel, PostgreSQL, and external APIs to implement an online auction platform. | 17.4/20 | [Repository](https://github.com/JFSLopes/online-auction-platform) |
 
 ---
 
