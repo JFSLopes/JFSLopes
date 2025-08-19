@@ -27,6 +27,16 @@ Here I’ll showcase some of the most interesting academic projects I’ve worke
 
 ---
 
+## 🛠️ Personal Projects  
+
+| Project | Description | Link |
+|---------|-------------|------|
+| Minesweeper AI | AI agent that plays Minesweeper using knowledge representation and logical inference to deduce safe moves. | [Repository](https://github.com/JFSLopes/Minesweeper-AI) |
+| IMG to ASCII | Converts images and videos into ASCII art, handling resizing and grayscale mapping for better visual quality. | [Repository](https://github.com/JFSLopes/IMG_To_ASCII) |
+| Tic Tac Toe AI | Implementation of Tic Tac Toe with an AI opponent based on the Minimax algorithm. | [Repository](https://github.com/JFSLopes/TicTac-AI-MAXMIN) |
+
+---
+
 ## 📫 Get in Touch  
 - GitHub: [JFSLopes](https://github.com/JFSLopes)
 - Email: **josefilipe3333@gmail.com**
