@@ -14,10 +14,6 @@ I enjoy building software from scratch, exploring low-level system details, and 
 ## 🚀 School Projects  
 Here I’ll showcase some of the most interesting academic projects I’ve worked on:  
 
-## 🚀 School Projects  
-
-## 🚀 School Projects  
-
 | Course Name | Project | Description | Grade | Link |
 |-------------|---------|-------------|-------|------|
 | Compilers | JmmCompiler | Comprehensive compiler pipeline implementation, covering parsing, semantic analysis, intermediate representation (IR) generation, and final code generation targeting Jasmin assembly language. | 20/20 | [Repository](https://github.com/JFSLopes/JmmCompiler) |
