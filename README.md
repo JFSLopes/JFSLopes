@@ -23,6 +23,7 @@ Here I’ll showcase some of the most interesting academic projects I’ve worke
 | Algorithms and Data Structures | Air Travel Flight Management System | Implemented a graph-based system to manage airports and flights: network statistics, critical airport detection, and best flight search with filters. | 18.1/20 | [Repository](https://github.com/JFSLopes/AED_PROJECT2) |
 | Algorithm Design | Delivery System | Designed and implemented algorithms on a custom graph to analyze a water distribution network: max flow (Edmonds-Karp), load balancing, failure impact, and flow resilience. | 18.9/20 | [Repository](https://github.com/JFSLopes/DA_FirstProject) |
 | Algorithm Design | TSP | Solved the Traveling Salesman Problem with heuristics and approximation algorithms (Nearest Neighbor, Christofides, Triangular Approximation, 2-Opt) to handle large real-world graphs. | 18.9/20 | [Repository](https://github.com/JFSLopes/DA_SecondProject) |
+| Computer Laboratory | Racemania | Car game developed to run on Minix, including drivers (mouse, timer, RTC, keyboard, video card) and all game logic. | 18.19/20 | [Repository](https://github.com/JFSLopes/Racemania) |
 
 ---
 
