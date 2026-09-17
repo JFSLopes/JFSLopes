@@ -27,6 +27,7 @@ Here I’ll showcase some of the most interesting academic projects I’ve worke
 | Algorithm Design | TSP | Solved the Traveling Salesman Problem with heuristics and approximation algorithms (Nearest Neighbor, Christofides, Triangular Approximation, 2-Opt) to handle large real-world graphs. | 18.9/20 | [Repository](https://github.com/JFSLopes/DA_SecondProject) |
 | Computer Laboratory | Racemania | Car game developed to run on Minix, including drivers (mouse, timer, RTC, keyboard, video card) and all game logic. | 18.19/20 | [Repository](https://github.com/JFSLopes/Racemania) |
 | Large Scale Distributed Systems | Dynamo-style CRDT System | Implemented a Dynamo-inspired distributed system with high availability, eventual consistency, local-first operation, and CRDT-based conflict resolution. | 18.25/20 | [Repository](https://github.com/JFSLopes/sdle-dynamo-crdt) |
+| Non-Relational Databases | Steam Hub | Built a Couchbase-based game store prototype with a React frontend and FastAPI backend, exploring document-oriented data modeling, search, transactions, and query performance. | 17.6/20 | [Repository](https://github.com/JFSLopes/bdnr) |
 
 
 ---
